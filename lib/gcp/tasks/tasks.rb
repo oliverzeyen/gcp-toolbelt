@@ -1,0 +1,6 @@
+require_relative 'task_base'
+require_relative 'config'
+require_relative 'console'
+require_relative 'deploy'
+require_relative 'storage'
+require_relative 'log'
